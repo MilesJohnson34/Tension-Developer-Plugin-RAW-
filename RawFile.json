@@ -1,8 +1,10 @@
-return {
+{
+  "WhiteListedUsers": [
     "connber1005",
     "MilesGamingOdyssey",
     "Angelshampaly1145",
     "ALEXTRUITT21",
     "1geko3",
-    "mikael_tgg",
+    "mikael_tgg"
+  ]
 }
